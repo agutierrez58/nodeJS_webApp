@@ -43,3 +43,10 @@ StreamAddExample.js
    Recordeu que el BaseX ha d'estar en mode servidor! (escolta pel port 1984)
    
    La informació de l'.XML pot ser la que cregueu convenient (per defecte podeu utilitzar la dels jugadors de bàsquet).
+   
+   ## Annex
+   Basat en :
+   
+Basat en: 
+  https://ilovecoding.org/lessons/creating-a-simple-web-app-with-nodejs
+  https://github.com/apb2006/basex-node
