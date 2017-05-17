@@ -26,6 +26,7 @@ Baseu-vos en :
 https://github.com/apb2006/basex-node
 .. per connectar-vos a la bbdd de baseX.
 
+// Carpeta basex_connection
 
 
 
