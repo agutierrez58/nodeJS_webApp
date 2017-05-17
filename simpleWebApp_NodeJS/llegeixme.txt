@@ -1,0 +1,32 @@
+// 
+node webapp_nodejs.js
+
+// 
+http://localhost:8888/
+
+// Ataqui a la bbdd baseX i mostri els jugadors de bàsquet
+// (o de la info que vulgueu)
+bin/basexserver
+
+// Mes detalls sobre BaseX
+
+// Es pot fer en parelles
+// Rubrica
+
+
+// 0) Documentar el procès que seguiu
+// 1) Conseguir instalar nodeJS i veure que funciona (http://localhost:8888)
+// 2) Engegar el servidor baseX en mode servidor (bin/basexserver)
+//    escolta el port 1984  
+// 3) Si aneu al path '/llista' mostra una llista dels jugadors de basquet.
+// 4) Afegir un formulari d'entrada per seleccionar (select) diversa
+//    informació a mostrar.
+
+Baseu-vos en :
+https://github.com/apb2006/basex-node
+.. per connectar-vos a la bbdd de baseX.
+
+
+
+
+
